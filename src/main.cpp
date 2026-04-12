@@ -1,5 +1,5 @@
-#include <geode/geode.hpp>
-#include <geode/modify/PlayerObject.hpp>
+#include <Geode/Geode.hpp>
+#include <Geode/modify/PlayerObject.hpp>
 #include <cocos2d.h>
 
 using namespace geode::prelude;
